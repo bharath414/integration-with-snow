@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="integration" max_length="40" name="x_510988_integrati_integration" type="collection">
+        <element label="1" max_length="40" name="u_1" type="string"/>
+        <element label="2" max_length="40" name="u_2" type="string"/>
+        <element label="3" max_length="40" name="u_3" type="string"/>
+    </element>
+</database>
